@@ -1,0 +1,38 @@
+.progress-section {
+    margin-bottom: 30px;
+}
+
+.progress-section h2 {
+    margin: 0;
+}
+
+.progress-section p {
+    margin-bottom: 15px;
+}
+
+#toggle-log-button,
+#clear-progress-button {
+    font-size: 1.2em;
+    margin-top: 15px;
+    padding: 10px 15px;
+}
+
+.toggle-log-button-container {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.clear-progress-container {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+#clear-progress-button {
+    background-color: #f44336;
+}
+
+#clear-progress-button:hover {
+    background-color: #d32f2f;
+}

@@ -1,0 +1,12 @@
+.diet-plan h3 {
+    margin-top: 0;
+}
+
+.diet-list-ul {
+    padding-left: 20px;
+    list-style-type: none;
+}
+
+.diet-list-ul li {
+    margin-bottom: 5px;
+}

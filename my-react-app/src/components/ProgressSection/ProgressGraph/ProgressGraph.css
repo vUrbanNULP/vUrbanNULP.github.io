@@ -1,0 +1,15 @@
+.progress-graph {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.progress-graph h3 {
+    margin-top: 0;
+}
