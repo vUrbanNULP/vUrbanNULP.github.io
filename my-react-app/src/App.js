@@ -49,7 +49,7 @@ function App() {
                 <main className="main-content">
                     <Routes>
                         <Route path="/" element={<WorkoutSectionContainer addWorkoutLogEntry={addWorkoutLogEntry} />} />
-                        <Route path="/progress" element={<ProgressSectionContainer workoutLog={workoutLog} clearProgress={clearProgress} />} /> {/* Передаємо clearProgress */}
+                        <Route path="/progress" element={<ProgressSectionContainer workoutLog={workoutLog} clearProgress={clearProgress} />} />
                         <Route path="/diet" element={<DietSectionContainer currentDiet={currentDiet} addDietItem={addDietItem} />} />
                     </Routes>
                 </main>
