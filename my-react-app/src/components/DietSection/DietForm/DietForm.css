@@ -1,0 +1,24 @@
+.diet-form-container h3 {
+    margin-top: 0;
+}
+
+.diet-form label {
+    display: inline-block;
+    width: 120px;
+    text-align: right;
+    margin-right: 10px;
+}
+
+.diet-form input[type="text"],
+.diet-form input[type="number"] {
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: calc(100% - 130px);
+    box-sizing: border-box;
+}
+
+.diet-form button.button-primary {
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
